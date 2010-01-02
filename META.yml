@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Astro-SkyPlot
-version:            0.02
+version:            0.03
 abstract:           Create very basic sky plots
 author:
     - Steffen Mueller <smueller@cpan.org>
